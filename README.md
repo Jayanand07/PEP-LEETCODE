@@ -16,6 +16,7 @@ DSA PRACTICE
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayanand07/PEP-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Jayanand07/PEP-LEETCODE/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jayanand07/PEP-LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ DSA PRACTICE
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jayanand07/PEP-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Jayanand07/PEP-LEETCODE/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jayanand07/PEP-LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
